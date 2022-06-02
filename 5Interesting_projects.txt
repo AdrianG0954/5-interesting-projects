@@ -1,0 +1,30 @@
+https://github.com/iperov/DeepFaceLive.git
+I find this interesting because I always wondered what kind of code and software is used in face swap
+I find face swap very interesting and I am very excited to know what kind of
+work goes into these sorts of things. While I still have a lot to go from now to there
+I think this is a good beginning exercise in finding out how this is made.
+
+https://github.com/pittcsc/Summer2023-Internships.git
+internships to me are very important because while still being in school I can be
+aquiring valuable experience which can and will only help me in the future.
+I do not think I will apply for an internship this year and will focus on furthing
+my education and learning as much as I can about c++ and python.
+
+https://github.com/faif/python-patterns.git
+python is a very important language to me as that is what I use for all my 
+interview questions. I started learning it about a week ago and I just love how
+simple and great the syntax is. I plan on using python for my technical interviews 
+and wouldnt be against someday making something with it as a fun side project.
+
+https://github.com/microsoft/calculator.git
+since this month we are building a calculator I wanted to see how someone 
+obviously more experienced than I handled that task. I am very excited to 
+build this calculator and I will make sure to put in 100% while making it.
+
+https://github.com/PCSX2/pcsx2.git
+emulators have always been very interesting to me because I would always wonder 
+how someone could even think about getting one working. programming is still very
+insane to me because of how many things are possible using it and how creative people
+are with their knowledge. I one day hope to be as skilled as other people are but
+one can only dream. I chose this because I wanted to see what went into building an
+emulator and the test/ improvments that were done to it overtime
